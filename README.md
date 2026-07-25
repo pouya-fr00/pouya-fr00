@@ -2,6 +2,8 @@
 
 **Full-Stack Developer building practical web, desktop, bot, and automation products with a security-focused engineering approach.**
 
+[Personal Website](https://pouyafereydouni.ir)
+
 I design and deliver full-stack web applications, backend APIs, desktop software, Telegram bots, automation systems, and open-source tools. My work covers product planning, architecture, frontend and backend implementation, data handling, testing, documentation, deployment, and maintenance.
 
 Security is a core engineering concern across these products. I apply secure-by-design practices appropriate to each project's scope, including input validation, authentication and authorization, access control, API protection, dependency hygiene, and responsible data handling.
