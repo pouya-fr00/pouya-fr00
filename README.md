@@ -1,8 +1,8 @@
 # Hi, I'm Pouya Fereydouni
 
-**Software Developer | Web Applications, Desktop Software & Telegram Bots and Automation**
+**Software Developer | Web & Desktop Applications | Telegram Bots & Automation**
 
-I build websites, web applications, desktop tools, and Telegram bots for practical workflows. I care about clear interfaces, maintainable code, and straightforward user experiences. The public projects below show my web and developer-tool work.
+I build websites, web applications, desktop tools, and Telegram bots for practical workflows. I care about clear interfaces, maintainable code, and straightforward user experiences. The projects below show my web, developer-tool, and Telegram automation work.
 
 ## What I work on
 
@@ -20,9 +20,15 @@ A bilingual web studio for exploring and extracting structured data from support
 
 ### [ProjectForge](https://github.com/pouya-fr00/projectforge)
 
-A local TypeScript CLI for generating modular web projects from a starter and adding features such as authentication and comments. Its [v0.1.0 GitHub release](https://github.com/pouya-fr00/projectforge/releases/tag/v0.1.0) includes a standalone package; it is not published on npm.
+A local-first TypeScript CLI for generating modular full-stack projects and adding features such as authentication and comments. Its standalone v0.1.0 package is available on GitHub; it is not published on npm.
 
-These repositories are public examples of web and developer-tool work. They are not desktop or Telegram bot case studies.
+[Download v0.1.0](https://github.com/pouya-fr00/projectforge/releases/tag/v0.1.0) · [View the source](https://github.com/pouya-fr00/projectforge)
+
+### [NavaDrop](https://github.com/pouya-fr00/navadrop)
+
+A Persian and English Telegram bot for receiving SoundCloud tracks and public playlists through each user's own Apify account. It uses official sign-in, queued Cloudflare Worker processing, and named audio delivery with available artwork.
+
+[Open the bot](https://t.me/navadrop_bot) · [View the source](https://github.com/pouya-fr00/navadrop)
 
 ## Collaboration
 
